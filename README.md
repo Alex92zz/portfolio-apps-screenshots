@@ -1,2 +1,2 @@
 # portfolio-apps-screenshots
-Screenshots of apps I've done without showing code.
+Screenshots and description of apps coming soon 
